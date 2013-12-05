@@ -1,0 +1,4 @@
+-- Kirk Boyer
+-- 12/4/2013
+-- Haskell 99 Questions
+-- Question #11: Run-length encoding, only producing a 
