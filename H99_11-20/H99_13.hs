@@ -1,0 +1,6 @@
+-- Kirk Boyer
+-- 12/6/2013
+-- Haskell 99 Questions
+-- Quesiton 13: Do Question 11, but don't reuse code from Question 9
+--
+-- It turns out I did this already in question 11. I don't particularly care to redo 11 re-using question 9, so I'll leave this here.
